@@ -1,6 +1,6 @@
 # NETFLIX-project
 
-#Insights & Recommendations :- Based on the analysis of the given dataset, here are some insights and recommendations:
+# Insights & Recommendations :- Based on the analysis of the given dataset, here are some insights and recommendations:
 
  1. Top 10 Content Producing Countries: The analysis of content production by country reveals the top 10 countries that 
     contribute the most to the content available on Netflix. This information can be useful for content acquisition
